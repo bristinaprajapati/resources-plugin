@@ -1,0 +1,2 @@
+# resources-plugin
+wordpress-plugin
